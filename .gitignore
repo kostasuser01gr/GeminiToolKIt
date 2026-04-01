@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.dev.vars
+.wrangler/
+.mf/
+*.log
+.DS_Store
+coverage/
+.env
+.env.local
+.env.production
+frontend/dist/

@@ -1,0 +1,10 @@
+{
+  "name": "GeminiToolKit",
+  "short_name": "GTK",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "description": "Car Rental Fleet Operations Platform",
+  "icons": []
+}
