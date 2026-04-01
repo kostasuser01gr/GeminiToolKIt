@@ -9,11 +9,12 @@ directory = "./frontend/dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "gemini-toolkit-db"
-database_id = "placeholder-will-be-replaced"
+database_id = "d748668f-6224-450d-9d78-67f545ad533a"
 
-[[r2_buckets]]
-binding = "EVIDENCE_BUCKET"
-bucket_name = "gemini-toolkit-evidence"
+# R2 bucket for evidence photos (enable R2 in Cloudflare dashboard first)
+# [[r2_buckets]]
+# binding = "EVIDENCE_BUCKET"
+# bucket_name = "gemini-toolkit-evidence"
 
 [vars]
 ENVIRONMENT = "production"
